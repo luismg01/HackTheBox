@@ -9,3 +9,6 @@ Soulmate is a HackTheBox machine for beginners; you can practice web exploitatio
 
 ## 🌬️ Expressway Machine (Easy)
 Expressway serves as an example of the risks associated with inadequate IPSec VPN setups and sudo vulnerabilities
+
+## 👨‍💻 CodePartTwo Machine (Easy)
+CodePartTwo is a simple Linux computer that mimics a real-world vulnerability exploitation situation. A vulnerable implementation of a library and misconfigured software.
